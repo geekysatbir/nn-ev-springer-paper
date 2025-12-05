@@ -1,5 +1,11 @@
 # Neural Networks and Electric Vehicles - Springer Publication
 
+<div align="center">
+  <img src="https://github.com/geekysatbir.png" alt="Satbir Singh" width="200" style="border-radius: 50%;"/>
+  <br/>
+  <strong>Satbir Singh</strong>
+</div>
+
 ## Publication Details
 This repository contains the research paper on Neural Networks and Electric Vehicles published by Springer.
 
