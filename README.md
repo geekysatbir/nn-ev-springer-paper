@@ -1,4 +1,4 @@
-# Neural Networks and Electric Vehicles - Springer Publication
+# Observability - Neural Networks and Electric Vehicles - Springer Publication
 
 ## Publication Details
 This repository contains the research paper on Neural Networks and Electric Vehicles published by Springer.
