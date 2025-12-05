@@ -55,9 +55,6 @@ python ev_hybrid_control.py
 - Regenerative braking optimization
 - Real-time adaptive control
 
-## EB1A Evidence
-This publication serves as evidence of extraordinary ability in the field of Customer Engineering with focus on Artificial Intelligence Operations and Observability.
-
 ## Files
 - `NN_EV_springer (3).doc` - Published paper
 - `ev_hybrid_control.py` - Implementation code
